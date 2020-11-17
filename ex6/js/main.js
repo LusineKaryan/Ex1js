@@ -6,4 +6,9 @@ function changeBackground(){
 	
 }
 
-button.addEventListener('click', changeBackground);
+button.addEventListener('click', changeBackground); //Lusine
+
+
+/*function modif() {
+    document.bgColor="#fffggf";
+}  */    //Patrick
